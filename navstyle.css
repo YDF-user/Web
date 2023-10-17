@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Monsterrat',sans-serif;
+}
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.39),rgba(0,0,0,0.39)), url("Images/background.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.About{
+    text-align: center;
+    color: red;
+    padding-top: 10%;
+    font-size: 30px;
+    font-family: 'Monsterrat', sans-serif;
+    line-height: 50px;
+}
+.Details{
+    line-height: 100px;
+}
+.About-details{
+    text-align: center;
+    color: rgba(255, 51, 0, 0.911);
+    padding-top: 10%;
+    font-size: 20px;
+    border-spacing: 100%;
+    line-height: 50px;
+}
+.service{
+    text-align: center;
+    color: rgba(255, 51, 0, 0.911);
+    padding-top: 10%;
+    font-size: 20px;
+    line-height: 50px;
+}
